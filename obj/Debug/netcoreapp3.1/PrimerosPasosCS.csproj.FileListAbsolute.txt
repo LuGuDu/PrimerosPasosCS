@@ -1,0 +1,11 @@
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\bin\Debug\netcoreapp3.1\PrimerosPasosCS.exe
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\bin\Debug\netcoreapp3.1\PrimerosPasosCS.deps.json
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\bin\Debug\netcoreapp3.1\PrimerosPasosCS.runtimeconfig.json
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\bin\Debug\netcoreapp3.1\PrimerosPasosCS.runtimeconfig.dev.json
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\bin\Debug\netcoreapp3.1\PrimerosPasosCS.dll
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\bin\Debug\netcoreapp3.1\PrimerosPasosCS.pdb
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\obj\Debug\netcoreapp3.1\PrimerosPasosCS.csprojAssemblyReference.cache
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\obj\Debug\netcoreapp3.1\PrimerosPasosCS.AssemblyInfoInputs.cache
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\obj\Debug\netcoreapp3.1\PrimerosPasosCS.AssemblyInfo.cs
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\obj\Debug\netcoreapp3.1\PrimerosPasosCS.dll
+C:\Users\lugud\source\repos\PrimerosPasosCS\PrimerosPasosCS\obj\Debug\netcoreapp3.1\PrimerosPasosCS.pdb

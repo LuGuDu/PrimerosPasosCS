@@ -6,7 +6,15 @@ namespace PrimerosPasosCS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola Mundo!");
+
+            Console.WriteLine("Welcome to a circunference area calculator. Insert the radius:");
+            double radius = Convert.ToDouble(Console.ReadLine());
+
+            Methods methods = new Methods();
+
+            double area = methods.calcularAreaCircunferencia(radius);
+            Console.WriteLine("The area of the circunference is: {0}", area);     
         }
     }
 }
